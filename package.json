@@ -1,0 +1,46 @@
+{
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt-contrib-jasmine": "^0.6.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-uglify": "~0.5.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-develop": "^0.4.0",
+    "grunt-usemin": "^2.3.0",
+    "grunt-wiredep": "^1.8.0",
+    "load-grunt-tasks": "^0.6.0"
+  },
+  "name": "hotels-marionettejs",
+  "description": "hotels-marionettejs",
+  "version": "0.1.0",
+  "dependencies": {
+    "body-parser": "^1.5.0",
+    "errorhandler": "^1.1.1",
+    "express": "^4.6.1",
+    "morgan": "^1.2.0",
+    "serve-static": "^1.4.0",
+    "swig": "^1.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/owentar/hotels-marionettejs.git"
+  },
+  "keywords": [
+    "marionette",
+    "hotels",
+    "javascript"
+  ],
+  "author": "Hernan Carrizo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owentar/hotels-marionettejs/issues"
+  },
+  "homepage": "https://github.com/owentar/hotels-marionettejs"
+}
